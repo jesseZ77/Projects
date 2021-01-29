@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Extra Trees classification ^AXJO}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{accuracy: train} &  0.5096 &   0.0026 &    0.5078 &    0.5115 \\
+\textbf{accuracy: test } &  0.4291 &   0.0042 &    0.4261 &     0.432 \\
+\bottomrule
+\end{tabular}
+\end{table}

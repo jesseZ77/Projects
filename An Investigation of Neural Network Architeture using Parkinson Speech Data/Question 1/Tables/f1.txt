@@ -1,0 +1,11 @@
+\begin{table}[H]
+\centering
+\caption{F1 score}
+\begin{tabular}{llll}
+\toprule
+{} &   train & validation &    test \\
+\midrule
+\textbf{0} &  0.6968 &     0.7117 &  0.6542 \\
+\bottomrule
+\end{tabular}
+\end{table}

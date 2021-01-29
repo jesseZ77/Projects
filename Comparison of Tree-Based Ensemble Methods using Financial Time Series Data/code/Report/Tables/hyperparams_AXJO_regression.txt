@@ -1,0 +1,25 @@
+\begin{table}[H]
+\centering
+\caption{Regression Hyper-parameters for AXJO}
+\begin{tabular}{ll}
+\toprule
+{} &           Parameters \\
+\textbf{Model  } &                      \\
+\midrule
+\textbf{RF     } &         max\_depth: 2 \\
+        &      max\_features: 2 \\
+\textbf{ET     } &         max\_depth: 2 \\
+        &      max\_features: 2 \\
+\textbf{ADA    } &  learning\_rate: 0.01 \\
+\textbf{GB     } &  learning\_rate: 0.01 \\
+        &         max\_depth: 2 \\
+        &      max\_features: 2 \\
+\textbf{XGB    } &   learning\_rate: 0.1 \\
+        &         max\_depth: 2 \\
+\textbf{Network} &          neurons: 10 \\
+        &            layers: 1 \\
+        &         dropout: 0.0 \\
+\textbf{SVM    } &    regularisation: 1 \\
+\bottomrule
+\end{tabular}
+\end{table}

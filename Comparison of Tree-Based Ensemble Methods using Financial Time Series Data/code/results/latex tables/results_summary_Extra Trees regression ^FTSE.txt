@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Extra Trees regression ^FTSE}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{rmse: train} &  2.3513 &   0.0041 &    2.3484 &    2.3542 \\
+\textbf{rmse: test } &  2.3982 &   0.0023 &    2.3966 &    2.3998 \\
+\bottomrule
+\end{tabular}
+\end{table}

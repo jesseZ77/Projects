@@ -1,0 +1,19 @@
+\begin{table}[H]
+\centering
+\caption{Train RMSE: FTSE}
+\begin{tabular}{llllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper & rank \\
+\midrule
+\textbf{RF             } &  2.4254 &   0.0009 &    2.4248 &    2.4261 &    6 \\
+\textbf{ET             } &  2.3513 &   0.0041 &    2.3484 &    2.3542 &    4 \\
+\textbf{ADA            } &    2.48 &   0.0014 &     2.479 &     2.481 &    7 \\
+\textbf{GB             } &  2.3911 &   0.0012 &    2.3903 &     2.392 &    5 \\
+\textbf{XGB            } &  2.0262 &        0 &    2.0262 &    2.0262 &    3 \\
+\textbf{Simple Stacker } &  1.8676 &   0.0006 &    1.8672 &     1.868 &    1 \\
+\textbf{Network Stacker} &  1.8796 &   0.0136 &    1.8699 &    1.8893 &    2 \\
+\textbf{SVM Stacker    } &  2.7137 &   0.0002 &    2.7136 &    2.7139 &    9 \\
+\textbf{Simple         } &  2.5216 &        0 &    2.5216 &    2.5216 &    8 \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,18 @@
+\begin{table}[H]
+\centering
+\caption{Hidden neurons = 15}
+\begin{tabular}{lllll}
+\toprule
+{} &     Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{Loss: train} &   0.5476 &   0.0218 &     0.532 &    0.5633 \\
+\textbf{Loss: val  } &   0.5848 &   0.0263 &    0.5659 &    0.6036 \\
+\textbf{Loss: test } &   0.6508 &   0.0181 &    0.6379 &    0.6638 \\
+\textbf{Acc: train } &   0.7183 &   0.0122 &    0.7096 &    0.7271 \\
+\textbf{Acc: val   } &    0.706 &   0.0188 &    0.6925 &    0.7195 \\
+\textbf{Acc: test  } &   0.6375 &   0.0149 &    0.6268 &    0.6482 \\
+\textbf{Num epochs } &    185.3 &  53.9116 &   146.734 &   223.866 \\
+\textbf{Time (s)   } &  11.6631 &   3.1072 &    9.4403 &   13.8858 \\
+\bottomrule
+\end{tabular}
+\end{table}

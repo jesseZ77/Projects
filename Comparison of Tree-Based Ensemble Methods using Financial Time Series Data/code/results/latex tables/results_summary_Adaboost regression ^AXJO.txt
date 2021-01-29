@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Adaboost regression ^AXJO}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{rmse: train} &  2.1501 &   0.0017 &    2.1489 &    2.1513 \\
+\textbf{rmse: test } &   2.256 &   0.0025 &    2.2542 &    2.2577 \\
+\bottomrule
+\end{tabular}
+\end{table}

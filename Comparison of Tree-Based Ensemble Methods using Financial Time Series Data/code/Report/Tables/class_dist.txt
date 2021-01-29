@@ -1,0 +1,18 @@
+\begin{table}[H]
+\centering
+\caption{Classification: Class Distributions}
+\begin{tabular}{llll}
+\toprule
+{} &  Down & Unchanged &    Up \\
+\midrule
+\textbf{AXJO: train} &  1155 &      1155 &  1155 \\
+\textbf{AXJO: test } &   489 &       535 &   448 \\
+\textbf{GSPC: train} &  1156 &      1156 &  1156 \\
+\textbf{GSPC: test } &   386 &       613 &   474 \\
+\textbf{FTSE: train} &  1148 &      1147 &  1148 \\
+\textbf{FTSE: test } &   450 &       571 &   442 \\
+\textbf{N225: train} &  1104 &      1104 &  1104 \\
+\textbf{N225: test } &   345 &       629 &   433 \\
+\bottomrule
+\end{tabular}
+\end{table}

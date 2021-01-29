@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Adaboost classification ^N225}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{accuracy: train} &  0.4155 &        0 &    0.4155 &    0.4155 \\
+\textbf{accuracy: test } &  0.4435 &        0 &    0.4435 &    0.4435 \\
+\bottomrule
+\end{tabular}
+\end{table}

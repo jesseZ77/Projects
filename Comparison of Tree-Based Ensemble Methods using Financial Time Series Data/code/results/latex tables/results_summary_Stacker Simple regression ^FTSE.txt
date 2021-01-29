@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Stacker Simple regression ^FTSE}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{rmse: train} &  1.8676 &   0.0006 &    1.8672 &     1.868 \\
+\textbf{rmse: test } &  2.6319 &   0.0057 &    2.6278 &     2.636 \\
+\bottomrule
+\end{tabular}
+\end{table}

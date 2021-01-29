@@ -1,0 +1,19 @@
+\begin{table}[H]
+\centering
+\caption{Train RMSE: N225}
+\begin{tabular}{llllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper & rank \\
+\midrule
+\textbf{RF             } &  3.2519 &   0.0012 &    3.2511 &    3.2527 &    7 \\
+\textbf{ET             } &  3.2711 &   0.0012 &    3.2703 &     3.272 &    8 \\
+\textbf{ADA            } &  3.2114 &   0.0024 &    3.2097 &    3.2131 &    6 \\
+\textbf{GB             } &  3.1536 &   0.0005 &    3.1533 &     3.154 &    5 \\
+\textbf{XGB            } &  2.6783 &        0 &    2.6783 &    2.6783 &    3 \\
+\textbf{Simple Stacker } &  2.4394 &   0.0009 &    2.4388 &    2.4401 &    1 \\
+\textbf{Network Stacker} &  2.5031 &   0.0825 &    2.4441 &    2.5621 &    2 \\
+\textbf{SVM Stacker    } &  2.9765 &   0.0039 &    2.9737 &    2.9793 &    4 \\
+\textbf{Simple         } &  3.2947 &        0 &    3.2947 &    3.2947 &    9 \\
+\bottomrule
+\end{tabular}
+\end{table}

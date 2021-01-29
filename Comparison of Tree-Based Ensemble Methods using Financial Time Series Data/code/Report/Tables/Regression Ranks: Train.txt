@@ -1,0 +1,19 @@
+\begin{table}[H]
+\centering
+\caption{Regression Ranks: Train}
+\begin{tabular}{llllll}
+\toprule
+{} & AXJO & GSPC & FTSE & N225 & average \\
+\midrule
+\textbf{RF             } &    5 &    6 &    6 &    7 &       6 \\
+\textbf{ET             } &    7 &    7 &    4 &    8 &     6.5 \\
+\textbf{ADA            } &    6 &    5 &    7 &    6 &       6 \\
+\textbf{GB             } &    4 &    4 &    5 &    5 &     4.5 \\
+\textbf{XGB            } &    3 &    3 &    3 &    3 &       3 \\
+\textbf{Simple Stacker } &    2 &    2 &    1 &    1 &     1.5 \\
+\textbf{Network Stacker} &    1 &    1 &    2 &    2 &     1.5 \\
+\textbf{SVM Stacker    } &    9 &    9 &    9 &    4 &    7.75 \\
+\textbf{Simple         } &    8 &    8 &    8 &    9 &    8.25 \\
+\bottomrule
+\end{tabular}
+\end{table}

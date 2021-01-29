@@ -1,0 +1,19 @@
+\begin{table}[H]
+\centering
+\caption{Train RMSE: GSPC}
+\begin{tabular}{llllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper & rank \\
+\midrule
+\textbf{RF             } &  2.5412 &   0.0012 &    2.5404 &    2.5421 &    6 \\
+\textbf{ET             } &  2.5527 &   0.0008 &    2.5522 &    2.5533 &    7 \\
+\textbf{ADA            } &  2.5148 &   0.0013 &    2.5139 &    2.5158 &    5 \\
+\textbf{GB             } &  2.4495 &    0.001 &    2.4487 &    2.4502 &    4 \\
+\textbf{XGB            } &  1.9789 &        0 &    1.9789 &    1.9789 &    3 \\
+\textbf{Simple Stacker } &  1.8027 &   0.0007 &    1.8022 &    1.8032 &    2 \\
+\textbf{Network Stacker} &  1.7952 &   0.0048 &    1.7917 &    1.7986 &    1 \\
+\textbf{SVM Stacker    } &  2.7723 &   0.0001 &    2.7722 &    2.7723 &    9 \\
+\textbf{Simple         } &  2.5707 &        0 &    2.5707 &    2.5707 &    8 \\
+\bottomrule
+\end{tabular}
+\end{table}

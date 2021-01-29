@@ -1,0 +1,19 @@
+\begin{table}[H]
+\centering
+\caption{Train RMSE: AXJO}
+\begin{tabular}{llllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper & rank \\
+\midrule
+\textbf{RF             } &  2.1475 &   0.0003 &    2.1473 &    2.1477 &    5 \\
+\textbf{ET             } &  2.1726 &   0.0004 &    2.1723 &     2.173 &    7 \\
+\textbf{ADA            } &  2.1501 &   0.0017 &    2.1489 &    2.1513 &    6 \\
+\textbf{GB             } &  2.0786 &   0.0013 &    2.0777 &    2.0795 &    4 \\
+\textbf{XGB            } &  1.7071 &        0 &    1.7071 &    1.7071 &    3 \\
+\textbf{Simple Stacker } &  1.5731 &   0.0012 &    1.5723 &    1.5739 &    2 \\
+\textbf{Network Stacker} &  1.5545 &   0.0046 &    1.5512 &    1.5579 &    1 \\
+\textbf{SVM Stacker    } &  2.4655 &   0.0033 &    2.4632 &    2.4678 &    9 \\
+\textbf{Simple         } &  2.1844 &        0 &    2.1844 &    2.1844 &    8 \\
+\bottomrule
+\end{tabular}
+\end{table}

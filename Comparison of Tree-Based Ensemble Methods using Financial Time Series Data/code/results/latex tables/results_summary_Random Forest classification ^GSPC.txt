@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Random Forest classification ^GSPC}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{accuracy: train} &  0.4595 &   0.0034 &    0.4571 &    0.4619 \\
+\textbf{accuracy: test } &  0.4734 &   0.0036 &    0.4708 &    0.4759 \\
+\bottomrule
+\end{tabular}
+\end{table}

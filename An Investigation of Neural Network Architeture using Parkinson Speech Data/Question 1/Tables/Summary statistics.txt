@@ -1,0 +1,36 @@
+\begin{table}[H]
+\centering
+\caption{Summary statistics}
+\begin{tabular}{p{1.75cm}|p{0.60cm}|p{0.60cm}|p{0.60cm}|p{0.60cm}|p{0.60cm}|p{0.60cm}|p{0.60cm}}
+\toprule
+{} &    mean &     std &    min &     25\% &     75\% &     max \\
+\midrule
+jitter local                        &    2.68 &    1.77 &   0.19 &    1.51 &    3.41 &   14.38 \\
+jitter local abs                    &     0.0 &     0.0 &    0.0 &     0.0 &     0.0 &     0.0 \\
+jitter rap                          &    1.25 &    0.98 &   0.06 &    0.62 &     1.6 &    8.02 \\
+jitter ppq5                         &    1.35 &    1.14 &   0.08 &    0.67 &    1.69 &   13.54 \\
+jitter ddp                          &    3.74 &    2.94 &   0.18 &    1.85 &    4.81 &   24.05 \\
+shimmer local                       &   12.92 &    5.45 &   1.19 &    9.35 &   15.49 &   41.14 \\
+shimmer local db                    &    1.19 &    0.42 &    0.1 &    0.94 &    1.41 &    2.72 \\
+shimmer apq3                        &     5.7 &    3.02 &    0.5 &     3.7 &    6.94 &   25.82 \\
+shimmer apq5                        &    7.98 &    4.84 &   0.71 &    5.16 &    9.56 &   72.86 \\
+shimmer apq11                       &   12.22 &    6.02 &   0.52 &    8.08 &   15.31 &   44.76 \\
+shimmer dda                         &    17.1 &    9.05 &   1.49 &   11.11 &   20.83 &   77.46 \\
+ac                                  &    0.85 &    0.09 &   0.54 &     0.8 &     0.9 &     1.0 \\
+nth                                 &    0.23 &    0.15 &    0.0 &    0.13 &     0.3 &    0.87 \\
+htn                                 &    10.0 &    4.29 &   0.69 &    7.51 &   12.09 &   28.42 \\
+median pitch                        &  163.37 &   56.02 &  81.46 &  124.08 &  192.48 &  468.62 \\
+mean pitch                          &  168.73 &   55.97 &  82.36 &  126.59 &  201.22 &  470.46 \\
+standard deviation of pitch         &   27.55 &   36.67 &   0.53 &     7.3 &   27.55 &  293.88 \\
+minimum pitch                       &  134.54 &   47.06 &  67.96 &  100.85 &  159.66 &  452.08 \\
+maximum pitch                       &  234.88 &  121.54 &  85.54 &  143.65 &   263.8 &  597.97 \\
+number of pulses                    &  109.74 &  150.03 &      0 &   42.75 &     113 &    1490 \\
+number of periods                   &  105.97 &  149.42 &      0 &   40.75 &     109 &    1489 \\
+mean period                         &    0.01 &     0.0 &    0.0 &    0.01 &    0.01 &    0.01 \\
+standard deviation of period        &     0.0 &     0.0 &    0.0 &     0.0 &     0.0 &    0.01 \\
+fraction of locally unvoiced frames &   27.68 &   20.98 &      0 &    8.15 &   43.06 &   88.16 \\
+number of voice breaks              &    1.13 &    1.61 &      0 &       0 &       1 &      12 \\
+degree of voice breaks              &   12.37 &   15.16 &      0 &       0 &   22.26 &   69.12 \\
+\bottomrule
+\end{tabular}
+\end{table}

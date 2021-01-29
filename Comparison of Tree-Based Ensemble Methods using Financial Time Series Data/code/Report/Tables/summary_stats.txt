@@ -1,0 +1,20 @@
+\begin{table}[H]
+\centering
+\caption{Summary Statistics: Daily Returns (\%)}
+\begin{tabular}{lllll}
+\toprule
+{} &     AXJO &      GSPC &      FTSE &     N225 \\
+\midrule
+\textbf{count      } &     4985 &      4989 &      4954 &     4767 \\
+\textbf{train count} &     3490 &      3493 &      3468 &     3337 \\
+\textbf{test count } &     1495 &      1496 &      1486 &     1430 \\
+\textbf{mean       } &   0.0115 &    0.0187 &   -0.0046 &   0.0034 \\
+\textbf{std        } &   1.0379 &    1.2498 &    1.2019 &   1.4864 \\
+\textbf{min        } &  -10.203 &  -12.7652 &  -11.5117 &  -12.111 \\
+\textbf{25\%        } &  -0.4597 &   -0.4549 &   -0.5388 &  -0.6941 \\
+\textbf{50\%        } &   0.0497 &    0.0636 &     0.036 &   0.0428 \\
+\textbf{75\%        } &   0.5391 &    0.5706 &    0.5802 &   0.7872 \\
+\textbf{max        } &   6.7665 &   10.9572 &    9.3842 &  13.2346 \\
+\bottomrule
+\end{tabular}
+\end{table}

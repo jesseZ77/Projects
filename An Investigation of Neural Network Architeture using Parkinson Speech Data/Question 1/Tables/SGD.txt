@@ -1,0 +1,18 @@
+\begin{table}[H]
+\centering
+\caption{sgd}
+\begin{tabular}{lllll}
+\toprule
+{} &     Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{Loss: train} &   0.5607 &   0.0201 &    0.5463 &    0.5751 \\
+\textbf{Loss: val  } &   0.5787 &   0.0216 &    0.5632 &    0.5941 \\
+\textbf{Loss: test } &   0.6401 &   0.0121 &    0.6314 &    0.6488 \\
+\textbf{Acc: train } &   0.7075 &    0.017 &    0.6954 &    0.7197 \\
+\textbf{Acc: val   } &   0.7108 &   0.0187 &    0.6974 &    0.7242 \\
+\textbf{Acc: test  } &   0.6428 &   0.0199 &    0.6286 &     0.657 \\
+\textbf{Num epochs } &    194.6 &  67.8269 &  146.0796 &  243.1204 \\
+\textbf{Time (s)   } &  10.9267 &   3.9055 &    8.1329 &   13.7205 \\
+\bottomrule
+\end{tabular}
+\end{table}

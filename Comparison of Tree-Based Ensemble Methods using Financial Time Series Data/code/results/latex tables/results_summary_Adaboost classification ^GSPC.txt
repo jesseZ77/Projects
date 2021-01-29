@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Adaboost classification ^GSPC}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{accuracy: train} &  0.4331 &        0 &    0.4331 &    0.4331 \\
+\textbf{accuracy: test } &  0.4807 &        0 &    0.4807 &    0.4807 \\
+\bottomrule
+\end{tabular}
+\end{table}

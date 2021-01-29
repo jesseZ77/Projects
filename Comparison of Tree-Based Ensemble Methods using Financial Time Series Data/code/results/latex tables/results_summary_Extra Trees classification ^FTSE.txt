@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Extra Trees classification ^FTSE}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{accuracy: train} &   0.639 &   0.0023 &    0.6374 &    0.6406 \\
+\textbf{accuracy: test } &  0.4154 &   0.0033 &     0.413 &    0.4178 \\
+\bottomrule
+\end{tabular}
+\end{table}

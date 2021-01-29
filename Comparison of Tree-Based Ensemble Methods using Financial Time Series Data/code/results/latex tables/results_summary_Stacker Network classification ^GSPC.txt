@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Stacker Network classification ^GSPC}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{accuracy: train} &  0.9841 &   0.0005 &    0.9838 &    0.9845 \\
+\textbf{accuracy: test } &   0.398 &   0.0047 &    0.3946 &    0.4013 \\
+\bottomrule
+\end{tabular}
+\end{table}

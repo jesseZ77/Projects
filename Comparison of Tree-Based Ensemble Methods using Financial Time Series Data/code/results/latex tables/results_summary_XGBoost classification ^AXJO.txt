@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{XGBoost classification ^AXJO}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{accuracy: train} &  0.4938 &        0 &    0.4938 &    0.4938 \\
+\textbf{accuracy: test } &   0.411 &        0 &     0.411 &     0.411 \\
+\bottomrule
+\end{tabular}
+\end{table}

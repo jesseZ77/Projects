@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Stacker SVM classification ^GSPC}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{accuracy: train} &  0.9843 &   0.0002 &    0.9841 &    0.9845 \\
+\textbf{accuracy: test } &  0.3979 &   0.0014 &    0.3969 &    0.3989 \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,19 @@
+\begin{table}[H]
+\centering
+\caption{Test Accuracy: AXJO}
+\begin{tabular}{llllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper & rank \\
+\midrule
+\textbf{RF             } &   0.408 &   0.0053 &    0.4042 &    0.4118 &    4 \\
+\textbf{ET             } &  0.4283 &   0.0041 &    0.4254 &    0.4313 &    1 \\
+\textbf{ADA            } &  0.3927 &        0 &    0.3927 &    0.3927 &    5 \\
+\textbf{GB             } &  0.4119 &   0.0035 &    0.4094 &    0.4144 &    2 \\
+\textbf{XGB            } &   0.411 &        0 &     0.411 &     0.411 &    3 \\
+\textbf{Simple Stacker } &  0.3825 &   0.0075 &    0.3771 &    0.3879 &    6 \\
+\textbf{Network Stacker} &  0.3567 &   0.0117 &    0.3483 &    0.3651 &    8 \\
+\textbf{SVM Stacker    } &  0.3484 &   0.0078 &    0.3428 &    0.3539 &    9 \\
+\textbf{Simple         } &  0.3607 &        0 &    0.3607 &    0.3607 &    7 \\
+\bottomrule
+\end{tabular}
+\end{table}

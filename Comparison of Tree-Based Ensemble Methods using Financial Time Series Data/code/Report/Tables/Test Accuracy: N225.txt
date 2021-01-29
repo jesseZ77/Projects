@@ -1,0 +1,19 @@
+\begin{table}[H]
+\centering
+\caption{Test Accuracy: N225}
+\begin{tabular}{llllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper & rank \\
+\midrule
+\textbf{RF             } &  0.4539 &   0.0043 &    0.4508 &    0.4571 &    2 \\
+\textbf{ET             } &  0.4551 &   0.0045 &    0.4519 &    0.4583 &    1 \\
+\textbf{ADA            } &  0.4435 &        0 &    0.4435 &    0.4435 &    4 \\
+\textbf{GB             } &  0.4495 &   0.0029 &    0.4474 &    0.4516 &    3 \\
+\textbf{XGB            } &  0.4343 &        0 &    0.4343 &    0.4343 &    6 \\
+\textbf{Simple Stacker } &  0.4363 &    0.004 &    0.4335 &    0.4392 &    5 \\
+\textbf{Network Stacker} &   0.407 &   0.0107 &    0.3993 &    0.4147 &    9 \\
+\textbf{SVM Stacker    } &  0.4071 &    0.009 &    0.4007 &    0.4135 &    8 \\
+\textbf{Simple         } &  0.4094 &        0 &    0.4094 &    0.4094 &    7 \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Extra Trees classification ^GSPC}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{accuracy: train} &   0.443 &   0.0038 &    0.4403 &    0.4458 \\
+\textbf{accuracy: test } &  0.4827 &   0.0045 &    0.4795 &    0.4859 \\
+\bottomrule
+\end{tabular}
+\end{table}

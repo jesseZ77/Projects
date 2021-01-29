@@ -1,0 +1,11 @@
+\begin{table}[H]
+\centering
+\caption{AUC}
+\begin{tabular}{llll}
+\toprule
+{} &   train & validation &    test \\
+\midrule
+\textbf{0} &  0.8098 &     0.7732 &  0.7102 \\
+\bottomrule
+\end{tabular}
+\end{table}

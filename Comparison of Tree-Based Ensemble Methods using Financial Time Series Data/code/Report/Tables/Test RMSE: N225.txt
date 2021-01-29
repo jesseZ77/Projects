@@ -1,0 +1,19 @@
+\begin{table}[H]
+\centering
+\caption{Test RMSE: N225}
+\begin{tabular}{llllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper & rank \\
+\midrule
+\textbf{RF             } &  2.8954 &   0.0004 &    2.8951 &    2.8957 &    2 \\
+\textbf{ET             } &   2.894 &   0.0003 &    2.8938 &    2.8942 &    1 \\
+\textbf{ADA            } &  2.9007 &   0.0004 &    2.9004 &     2.901 &    4 \\
+\textbf{GB             } &  2.9131 &   0.0009 &    2.9125 &    2.9138 &    5 \\
+\textbf{XGB            } &  3.0535 &        0 &    3.0535 &    3.0535 &    6 \\
+\textbf{Simple Stacker } &  3.3837 &   0.0053 &    3.3799 &    3.3875 &    9 \\
+\textbf{Network Stacker} &  3.3597 &   0.1001 &    3.2881 &    3.4313 &    8 \\
+\textbf{SVM Stacker    } &  3.3085 &   0.0027 &    3.3066 &    3.3105 &    7 \\
+\textbf{Simple         } &  2.8971 &        0 &    2.8971 &    2.8971 &    3 \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,17 @@
+\begin{table}[H]
+\centering
+\caption{Evaluation metrics}
+\begin{tabular}{lrrr}
+\toprule
+{} &     train &       val &      test \\
+\midrule
+loss        &  0.613305 &  0.590796 &  0.659414 \\
+accuracy    &  0.658647 &  0.718563 &  0.620192 \\
+tpr/ recall &  0.637725 &  0.695122 &  0.605769 \\
+fpr         &  0.320242 &  0.258824 &  0.365385 \\
+precision   &  0.667712 &  0.721519 &  0.623762 \\
+f1 score    &  0.652374 &  0.708075 &  0.614634 \\
+auc         &  0.720888 &  0.783501 &  0.658561 \\
+\bottomrule
+\end{tabular}
+\end{table}

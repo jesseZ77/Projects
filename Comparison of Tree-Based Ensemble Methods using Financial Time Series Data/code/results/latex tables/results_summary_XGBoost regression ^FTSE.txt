@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{XGBoost regression ^FTSE}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{rmse: train} &  2.0262 &        0 &    2.0262 &    2.0262 \\
+\textbf{rmse: test } &  2.4361 &        0 &    2.4361 &    2.4361 \\
+\bottomrule
+\end{tabular}
+\end{table}

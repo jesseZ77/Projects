@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Stacker Network regression ^AXJO}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{rmse: train} &  1.5545 &   0.0046 &    1.5512 &    1.5579 \\
+\textbf{rmse: test } &  2.6152 &   0.0128 &    2.6061 &    2.6244 \\
+\bottomrule
+\end{tabular}
+\end{table}

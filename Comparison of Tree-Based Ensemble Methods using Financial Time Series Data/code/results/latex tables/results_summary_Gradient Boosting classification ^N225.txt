@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Gradient Boosting classification ^N225}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{accuracy: train} &  0.6964 &   0.0026 &    0.6945 &    0.6983 \\
+\textbf{accuracy: test } &  0.4495 &   0.0029 &    0.4474 &    0.4516 \\
+\bottomrule
+\end{tabular}
+\end{table}

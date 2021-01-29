@@ -1,0 +1,19 @@
+\begin{table}[H]
+\centering
+\caption{Test Accuracy: FTSE}
+\begin{tabular}{llllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper & rank \\
+\midrule
+\textbf{RF             } &  0.3988 &   0.0036 &    0.3962 &    0.4013 &    2 \\
+\textbf{ET             } &  0.4154 &   0.0033 &     0.413 &    0.4178 &    1 \\
+\textbf{ADA            } &  0.3964 &        0 &    0.3964 &    0.3964 &    3 \\
+\textbf{GB             } &  0.3716 &    0.006 &    0.3673 &    0.3758 &    5 \\
+\textbf{XGB            } &  0.3814 &        0 &    0.3814 &    0.3814 &    4 \\
+\textbf{Simple Stacker } &  0.3645 &    0.008 &    0.3588 &    0.3702 &    7 \\
+\textbf{Network Stacker} &   0.353 &   0.0075 &    0.3477 &    0.3584 &    8 \\
+\textbf{SVM Stacker    } &  0.3491 &   0.0097 &    0.3422 &    0.3561 &    9 \\
+\textbf{Simple         } &   0.365 &        0 &     0.365 &     0.365 &    6 \\
+\bottomrule
+\end{tabular}
+\end{table}
