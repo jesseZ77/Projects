@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Gradient Boosting regression ^GSPC}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{rmse: train} &  2.4495 &    0.001 &    2.4487 &    2.4502 \\
+\textbf{rmse: test } &  2.4269 &   0.0036 &    2.4244 &    2.4295 \\
+\bottomrule
+\end{tabular}
+\end{table}

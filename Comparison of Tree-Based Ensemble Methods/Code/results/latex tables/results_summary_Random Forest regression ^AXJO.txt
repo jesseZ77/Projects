@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Random Forest regression ^AXJO}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{rmse: train} &  2.1475 &   0.0003 &    2.1473 &    2.1477 \\
+\textbf{rmse: test } &  2.2619 &   0.0016 &    2.2608 &    2.2631 \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,19 @@
+\begin{table}[H]
+\centering
+\caption{Train Accuracy: N225}
+\begin{tabular}{llllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper & rank \\
+\midrule
+\textbf{RF             } &  0.8241 &   0.0042 &    0.8211 &    0.8271 &    4 \\
+\textbf{ET             } &  0.6935 &   0.0033 &    0.6911 &    0.6959 &    6 \\
+\textbf{ADA            } &  0.4155 &        0 &    0.4155 &    0.4155 &    8 \\
+\textbf{GB             } &  0.6964 &   0.0026 &    0.6945 &    0.6983 &    5 \\
+\textbf{XGB            } &  0.6821 &        0 &    0.6821 &    0.6821 &    7 \\
+\textbf{Simple Stacker } &  0.8269 &   0.0043 &    0.8238 &    0.8299 &    3 \\
+\textbf{Network Stacker} &  0.9251 &   0.0066 &    0.9204 &    0.9298 &    1 \\
+\textbf{SVM Stacker    } &  0.9103 &   0.0048 &    0.9069 &    0.9137 &    2 \\
+\textbf{Simple         } &  0.3835 &        0 &    0.3835 &    0.3835 &    9 \\
+\bottomrule
+\end{tabular}
+\end{table}

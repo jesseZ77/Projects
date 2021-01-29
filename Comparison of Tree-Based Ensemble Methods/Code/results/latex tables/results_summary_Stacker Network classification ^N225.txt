@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Stacker Network classification ^N225}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{accuracy: train} &  0.9251 &   0.0066 &    0.9204 &    0.9298 \\
+\textbf{accuracy: test } &   0.407 &   0.0107 &    0.3993 &    0.4147 \\
+\bottomrule
+\end{tabular}
+\end{table}

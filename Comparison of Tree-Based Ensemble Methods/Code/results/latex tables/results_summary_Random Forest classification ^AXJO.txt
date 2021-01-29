@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Random Forest classification ^AXJO}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{accuracy: train} &  0.7816 &   0.0024 &    0.7799 &    0.7833 \\
+\textbf{accuracy: test } &  0.4077 &   0.0052 &     0.404 &    0.4115 \\
+\bottomrule
+\end{tabular}
+\end{table}

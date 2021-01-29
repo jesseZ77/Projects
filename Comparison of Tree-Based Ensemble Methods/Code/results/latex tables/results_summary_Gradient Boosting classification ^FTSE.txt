@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Gradient Boosting classification ^FTSE}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{accuracy: train} &  0.6799 &   0.0019 &    0.6786 &    0.6813 \\
+\textbf{accuracy: test } &  0.3716 &    0.006 &    0.3673 &    0.3758 \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Adaboost classification ^AXJO}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{accuracy: train} &  0.4355 &        0 &    0.4355 &    0.4355 \\
+\textbf{accuracy: test } &  0.3927 &        0 &    0.3927 &    0.3927 \\
+\bottomrule
+\end{tabular}
+\end{table}

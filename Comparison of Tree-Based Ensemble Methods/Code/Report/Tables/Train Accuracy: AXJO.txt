@@ -1,0 +1,19 @@
+\begin{table}[H]
+\centering
+\caption{Train Accuracy: AXJO}
+\begin{tabular}{llllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper & rank \\
+\midrule
+\textbf{RF             } &  0.7841 &   0.0027 &    0.7822 &     0.786 &    4 \\
+\textbf{ET             } &  0.6399 &   0.0035 &    0.6373 &    0.6424 &    6 \\
+\textbf{ADA            } &  0.4355 &        0 &    0.4355 &    0.4355 &    8 \\
+\textbf{GB             } &  0.6554 &   0.0027 &    0.6535 &    0.6573 &    5 \\
+\textbf{XGB            } &  0.4938 &        0 &    0.4938 &    0.4938 &    7 \\
+\textbf{Simple Stacker } &  0.8473 &    0.004 &    0.8445 &    0.8502 &    3 \\
+\textbf{Network Stacker} &  0.9056 &   0.0034 &    0.9032 &     0.908 &    1 \\
+\textbf{SVM Stacker    } &   0.905 &   0.0046 &    0.9017 &    0.9083 &    2 \\
+\textbf{Simple         } &  0.3974 &        0 &    0.3974 &    0.3974 &    9 \\
+\bottomrule
+\end{tabular}
+\end{table}

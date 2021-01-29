@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Stacker SVM classification ^FTSE}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{accuracy: train} &  0.9156 &   0.0036 &     0.913 &    0.9181 \\
+\textbf{accuracy: test } &  0.3491 &   0.0097 &    0.3422 &    0.3561 \\
+\bottomrule
+\end{tabular}
+\end{table}

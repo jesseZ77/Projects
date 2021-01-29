@@ -1,0 +1,13 @@
+\begin{table}[H]
+\centering
+\caption{Confusion matrix}
+\begin{tabular}{lrrr}
+\toprule
+{} &  Pred negative &  Pred positive &  Total true \\
+\midrule
+True negative &            231 &            100 &         331 \\
+True positive &             77 &            257 &         334 \\
+Total pred    &            308 &            357 &         665 \\
+\bottomrule
+\end{tabular}
+\end{table}

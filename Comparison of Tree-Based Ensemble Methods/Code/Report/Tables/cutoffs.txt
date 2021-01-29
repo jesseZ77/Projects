@@ -1,0 +1,14 @@
+\begin{table}[H]
+\centering
+\caption{Classification: Class Cutoffs}
+\begin{tabular}{lll}
+\toprule
+{} & Down Cut-off & Up Cut-off \\
+\midrule
+\textbf{AXJO} &      -0.5185 &     0.9391 \\
+\textbf{GSPC} &      -0.5591 &     1.0227 \\
+\textbf{FTSE} &      -0.6932 &     0.9309 \\
+\textbf{N225} &      -1.1344 &     1.3532 \\
+\bottomrule
+\end{tabular}
+\end{table}

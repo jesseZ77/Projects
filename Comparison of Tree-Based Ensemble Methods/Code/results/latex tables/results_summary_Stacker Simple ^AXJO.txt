@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Stacker Simple ^AXJO}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{accuracy: train} &  0.8474 &   0.0047 &    0.8441 &    0.8508 \\
+\textbf{accuracy: test } &  0.3815 &   0.0058 &    0.3774 &    0.3857 \\
+\bottomrule
+\end{tabular}
+\end{table}

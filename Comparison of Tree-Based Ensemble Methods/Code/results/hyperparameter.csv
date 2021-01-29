@@ -1,0 +1,57 @@
+,Problem type,Ticker,Model,Params
+0,classification,AXJO,RF,"max_depth: 8, max_features: 8"
+0,classification,AXJO,ET,"max_depth: 8, max_features: 8"
+0,classification,AXJO,ADA,learning_rate: 0.01
+0,classification,AXJO,GB,"learning_rate: 0.01, max_depth: 4, max_features: 2"
+0,classification,AXJO,XGB,"learning_rate: 0.01, max_depth: 2"
+0,classification,AXJO,Network,"neurons: 20, layers: 3, dropout: 0.1"
+0,classification,AXJO,SVM,C: 100
+0,classification,GSPC,RF,"max_depth: 2, max_features: 8"
+0,classification,GSPC,ET,"max_depth: 2, max_features: 8"
+0,classification,GSPC,ADA,learning_rate: 0.01
+0,classification,GSPC,GB,"learning_rate: 0.01, max_depth: 2, max_features: 8"
+0,classification,GSPC,XGB,"learning_rate: 0.01, max_depth: 8"
+0,classification,GSPC,Network,"neurons: 20, layers: 1, dropout: 0.2"
+0,classification,GSPC,SVM,C: 100
+0,classification,FTSE,RF,"max_depth: 8, max_features: 8"
+0,classification,FTSE,ET,"max_depth: 8, max_features: 8"
+0,classification,FTSE,ADA,learning_rate: 0.01
+0,classification,FTSE,GB,"learning_rate: 0.1, max_depth: 2, max_features: 4"
+0,classification,FTSE,XGB,"learning_rate: 0.01, max_depth: 2"
+0,classification,FTSE,Network,"neurons: 20, layers: 2, dropout: 0.0"
+0,classification,FTSE,SVM,C: 100
+0,classification,N225,RF,"max_depth: 8, max_features: 2"
+0,classification,N225,ET,"max_depth: 8, max_features: 8"
+0,classification,N225,ADA,learning_rate: 0.01
+0,classification,N225,GB,"learning_rate: 0.01, max_depth: 4, max_features: 2"
+0,classification,N225,XGB,"learning_rate: 0.1, max_depth: 2"
+0,classification,N225,Network,"neurons: 20, layers: 2, dropout: 0.1"
+0,classification,N225,SVM,C: 100
+0,regression,AXJO,RF,"max_depth: 2, max_features: 2"
+0,regression,AXJO,ET,"max_depth: 2, max_features: 2"
+0,regression,AXJO,ADA,learning_rate: 0.01
+0,regression,AXJO,GB,"learning_rate: 0.01, max_depth: 2, max_features: 2"
+0,regression,AXJO,XGB,"learning_rate: 0.1, max_depth: 2"
+0,regression,AXJO,Network,"neurons: 10, layers: 1, dropout: 0.0"
+0,regression,AXJO,SVM,C: 1
+0,regression,GSPC,RF,"max_depth: 2, max_features: 2"
+0,regression,GSPC,ET,"max_depth: 2, max_features: 8"
+0,regression,GSPC,ADA,learning_rate: 0.01
+0,regression,GSPC,GB,"learning_rate: 0.01, max_depth: 2, max_features: 2"
+0,regression,GSPC,XGB,"learning_rate: 0.1, max_depth: 2"
+0,regression,GSPC,Network,"neurons: 20, layers: 2, dropout: 0.1"
+0,regression,GSPC,SVM,C: 0.01
+0,regression,FTSE,RF,"max_depth: 4, max_features: 8"
+0,regression,FTSE,ET,"max_depth: 8, max_features: 8"
+0,regression,FTSE,ADA,learning_rate: 0.01
+0,regression,FTSE,GB,"learning_rate: 0.01, max_depth: 2, max_features: 8"
+0,regression,FTSE,XGB,"learning_rate: 0.1, max_depth: 2"
+0,regression,FTSE,Network,"neurons: 10, layers: 1, dropout: 0.3"
+0,regression,FTSE,SVM,C: 0.01
+0,regression,N225,RF,"max_depth: 2, max_features: 2"
+0,regression,N225,ET,"max_depth: 2, max_features: 4"
+0,regression,N225,ADA,learning_rate: 0.01
+0,regression,N225,GB,"learning_rate: 0.01, max_depth: 2, max_features: 8"
+0,regression,N225,XGB,"learning_rate: 0.1, max_depth: 2"
+0,regression,N225,Network,"neurons: 5, layers: 1, dropout: 0.1"
+0,regression,N225,SVM,C: 10

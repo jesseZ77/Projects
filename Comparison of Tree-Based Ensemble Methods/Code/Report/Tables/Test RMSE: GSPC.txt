@@ -1,0 +1,19 @@
+\begin{table}[H]
+\centering
+\caption{Test RMSE: GSPC}
+\begin{tabular}{llllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper & rank \\
+\midrule
+\textbf{RF             } &   2.375 &   0.0026 &    2.3732 &    2.3769 &    2 \\
+\textbf{ET             } &  2.3754 &   0.0014 &    2.3744 &    2.3764 &    3 \\
+\textbf{ADA            } &  2.3843 &   0.0084 &    2.3783 &    2.3904 &    4 \\
+\textbf{GB             } &  2.4269 &   0.0036 &    2.4244 &    2.4295 &    5 \\
+\textbf{XGB            } &  2.5521 &        0 &    2.5521 &    2.5521 &    6 \\
+\textbf{Simple Stacker } &  2.7298 &   0.0075 &    2.7244 &    2.7352 &    8 \\
+\textbf{Network Stacker} &  2.7423 &    0.023 &    2.7259 &    2.7588 &    9 \\
+\textbf{SVM Stacker    } &  2.6034 &   0.0001 &    2.6033 &    2.6034 &    7 \\
+\textbf{Simple         } &  2.3589 &        0 &    2.3589 &    2.3589 &    1 \\
+\bottomrule
+\end{tabular}
+\end{table}

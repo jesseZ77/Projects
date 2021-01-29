@@ -1,0 +1,13 @@
+\begin{table}[H]
+\centering
+\caption{Confusion matrix: train}
+\begin{tabular}{lrrr}
+\toprule
+{} &  Pred negative &  Pred positive &  Total actual \\
+\midrule
+Actual negative &            227 &            104 &           331 \\
+Actual positive &             90 &            244 &           334 \\
+Total pred      &            317 &            348 &           665 \\
+\bottomrule
+\end{tabular}
+\end{table}

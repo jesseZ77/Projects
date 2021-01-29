@@ -1,0 +1,11 @@
+\begin{table}[H]
+\centering
+\caption{Logistic regression}
+\begin{tabular}{llll}
+\toprule
+{} & Acc: train & Acc: val & Acc: test \\
+\midrule
+\textbf{0} &     0.6586 &   0.7186 &    0.6202 \\
+\bottomrule
+\end{tabular}
+\end{table}

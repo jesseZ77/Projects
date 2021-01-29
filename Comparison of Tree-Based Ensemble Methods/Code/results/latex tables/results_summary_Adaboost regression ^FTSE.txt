@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Adaboost regression ^FTSE}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{rmse: train} &    2.48 &   0.0014 &     2.479 &     2.481 \\
+\textbf{rmse: test } &  2.4066 &   0.0006 &    2.4062 &    2.4071 \\
+\bottomrule
+\end{tabular}
+\end{table}

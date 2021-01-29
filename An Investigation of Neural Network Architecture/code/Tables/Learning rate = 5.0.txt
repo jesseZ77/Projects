@@ -1,0 +1,18 @@
+\begin{table}[H]
+\centering
+\caption{Learning rate = 5.0}
+\begin{tabular}{lllll}
+\toprule
+{} &                Mean &            Std. dev & CI: lower &          CI: upper \\
+\midrule
+\textbf{Loss: train} &   76908704814939.34 &  209979862539183.28 &         0 &  227119249593315.9 \\
+\textbf{Loss: val  } &   96611380860383.28 &   267781693321675.8 &         0 &  288170864465717.9 \\
+\textbf{Loss: test } &  64957816803929.336 &  184729496549236.34 &         0 &  197105337893567.4 \\
+\textbf{Acc: train } &              0.5102 &              0.0134 &    0.5006 &             0.5198 \\
+\textbf{Acc: val   } &               0.503 &              0.0297 &    0.4817 &             0.5243 \\
+\textbf{Acc: test  } &              0.5063 &              0.0255 &     0.488 &             0.5245 \\
+\textbf{Num epochs } &                13.1 &              5.1305 &    9.4298 &            16.7702 \\
+\textbf{Time (s)   } &              1.1993 &              0.2579 &    1.0147 &             1.3838 \\
+\bottomrule
+\end{tabular}
+\end{table}

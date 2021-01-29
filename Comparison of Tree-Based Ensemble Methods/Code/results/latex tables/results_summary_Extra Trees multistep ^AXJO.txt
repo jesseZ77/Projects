@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Extra Trees multistep ^AXJO}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{rmse: train} &  1.0014 &   0.0002 &    1.0013 &    1.0016 \\
+\textbf{rmse: test } &  1.0767 &   0.0005 &    1.0763 &     1.077 \\
+\bottomrule
+\end{tabular}
+\end{table}

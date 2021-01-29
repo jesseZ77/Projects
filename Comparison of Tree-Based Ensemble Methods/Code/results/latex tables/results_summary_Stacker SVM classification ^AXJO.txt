@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Stacker SVM classification ^AXJO}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{accuracy: train} &   0.905 &   0.0046 &    0.9017 &    0.9083 \\
+\textbf{accuracy: test } &  0.3484 &   0.0078 &    0.3428 &    0.3539 \\
+\bottomrule
+\end{tabular}
+\end{table}

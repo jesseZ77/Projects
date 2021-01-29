@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Stacker SVM regression ^GSPC}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{rmse: train} &  2.7723 &   0.0001 &    2.7722 &    2.7723 \\
+\textbf{rmse: test } &  2.6034 &   0.0001 &    2.6033 &    2.6034 \\
+\bottomrule
+\end{tabular}
+\end{table}

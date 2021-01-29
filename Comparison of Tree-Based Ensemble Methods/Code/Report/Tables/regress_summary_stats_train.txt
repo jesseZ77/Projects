@@ -1,0 +1,18 @@
+\begin{table}[H]
+\centering
+\caption{Regression: 5-Day Returns (\%), train}
+\begin{tabular}{lllll}
+\toprule
+{} &      AXJO &      GSPC &      FTSE &      N225 \\
+\midrule
+\textbf{count} &      3465 &      3468 &      3443 &      3312 \\
+\textbf{mean } &    0.0658 &    0.0589 &   -0.0103 &   -0.0182 \\
+\textbf{std  } &    2.1887 &    2.5915 &    2.5514 &    3.3086 \\
+\textbf{min  } &  -17.0163 &  -20.2607 &  -23.6316 &  -27.8844 \\
+\textbf{25\%  } &   -1.0039 &   -1.1395 &   -1.2395 &   -1.8945 \\
+\textbf{50\%  } &    0.2545 &    0.2566 &    0.1633 &    0.2262 \\
+\textbf{75\%  } &    1.3243 &    1.4666 &    1.3542 &    1.9953 \\
+\textbf{max  } &   12.0161 &   17.4887 &   16.6884 &   24.0963 \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,12 @@
+\begin{table}[h]
+\centering
+\caption{Gradient Boosting classification ^GSPC}
+\begin{tabular}{lllll}
+\toprule
+{} &    Mean & Std. dev & CI: lower & CI: upper \\
+\midrule
+\textbf{accuracy: train} &  0.4987 &   0.0016 &    0.4975 &    0.4998 \\
+\textbf{accuracy: test } &  0.4836 &   0.0022 &     0.482 &    0.4852 \\
+\bottomrule
+\end{tabular}
+\end{table}
